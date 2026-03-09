@@ -1,6 +1,6 @@
-# Hey, I'm Devashish 👋
+<h1 align="center">Hey, I'm Devashish 👋</h1>
 
-> Backend engineer by day. Open-source builder by night. Always chasing the problem nobody's solved cleanly yet.
+<p align="center">Backend engineer by day. Open-source builder by night. Always chasing the problem nobody's solved cleanly yet.</p>
 
 ---
 
@@ -48,13 +48,14 @@ Most AI coding tools are blind to your codebase. They see files, not relationshi
 
 ### 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ddevilz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0f172a" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddevilz&layout=compact&hide_border=true&langs_count=6&bg_color=ffffff&title_color=0f172a&text_color=334155" height="165" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ddevilz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddevilz&layout=compact&hide_border=true&langs_count=6&theme=default" height="165" />
+</p> -->
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ddevilz&hide_border=true&background=ffffff&stroke=e2e8f0&ring=0f172a&fire=0f172a&currStreakLabel=0f172a&sideLabels=334155&currStreakNum=0f172a&sideNums=0f172a&dates=94a3b8" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ddevilz&hide_border=true&theme=default" height="165" />
 </p>
 
 ---
