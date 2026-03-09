@@ -1,78 +1,65 @@
-<h2 align="center">hey, I'm Devashish 👋</h2>
+# Hey, I'm Devashish 👋
 
-<p align="center">
-  SDE · Mumbai · building things that make codebases easier to understand
-</p>
+> Backend engineer by day. Open-source builder by night. Always chasing the problem nobody's solved cleanly yet.
 
 ---
 
-### about me
+### About Me
 
-I'm a backend-focused software engineer who loves the intersection of **AI and developer tooling**. By day I write production code; by night I'm building [**Loom**](https://github.com/ddevilz/loom) — an open-source knowledge graph that connects your code and documentation so you always know what changed, why it matters, and what breaks.
+I'm a 26-year-old SDE based in **Mumbai**, working remotely on production backend systems. I'm drawn to the parts of engineering that most people skip — how large codebases rot over time, why AI tools hallucinate in your repo, and what it would take to actually fix that.
 
-- 🔭 Currently building **Loom** — a unified code + docs knowledge graph (Python, FalkorDB, tree-sitter)
-- 🧠 Deep interests in RAG pipelines, graph databases, and semantic search
-- 📍 Based in Mumbai, working remotely
+Outside of code, I run, hit the gym, and think too much about systems — both the kind you deploy and the kind you use to run your life.
+
+A few things that define how I work:
+- I care more about **why** the code exists than what it does
+- I build for the long game — open-source, in public, with real users in mind
+- I'm currently learning to go from **engineer** to **builder** — and Loom is that bet
 
 ---
 
-### tech stack
-
-**Languages**
+### 🛠 Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend & Frameworks**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**AI / ML**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-7C3AED?style=flat-square&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-
-**Databases & Infra**
-
-![FalkorDB](https://img.shields.io/badge/FalkorDB-DC382D?style=flat-square&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ---
 
-### 🌟 what I'm building — Loom
+### 🌟 What I'm Building — Loom
 
-> *Your codebase has a story. Loom helps you read it.*
+Most AI coding tools are blind to your codebase. They see files, not relationships. They miss why a function exists, what spec it implements, what breaks if you change it.
 
-**Loom** is an open-source knowledge graph engine that indexes your code and documentation into a unified graph, enabling:
+**Loom** fixes that — it's an open-source knowledge graph that connects your code and documentation into a single queryable graph. Built on tree-sitter, FalkorDB, and an MCP-native API.
 
-- 🔍 **Semantic search** across code + docs simultaneously
-- 🔗 **Drift detection** — find where code diverged from its spec
-- 💥 **Blast radius analysis** — know exactly what a change will break
-- 🤖 **MCP-native** — plugs directly into AI coding assistants
+- 🔗 **Semantic search** across code + docs simultaneously
+- 💥 **Blast radius analysis** — know what breaks before you merge
+- 📐 **Drift detection** — catch where code diverged from its spec
+- 🤖 **MCP-native** — plugs straight into Cursor, Claude Code, and more
 
-If you work in large codebases, juggle multiple repos, or just want your AI assistant to actually understand your project — **Loom is for you.**
-
-**[⭐ Star Loom on GitHub](https://github.com/ddevilz/loom)** · **[📖 Read the docs](https://github.com/ddevilz/loom#readme)**
+> If you're working in a large codebase and want your AI assistant to actually understand it — [**⭐ star Loom**](https://github.com/ddevilz/loom) and follow along. It's being built in the open.
 
 ---
 
-### github stats
+### 📊 Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ddevilz&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddevilz&layout=compact&theme=default&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ddevilz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=0f172a&text_color=334155&icon_color=0f172a" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddevilz&layout=compact&hide_border=true&langs_count=6&bg_color=ffffff&title_color=0f172a&text_color=334155" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ddevilz&hide_border=true&background=ffffff&stroke=e2e8f0&ring=0f172a&fire=0f172a&currStreakLabel=0f172a&sideLabels=334155&currStreakNum=0f172a&sideNums=0f172a&dates=94a3b8" height="165" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/ddevilz/loom">⭐ Star Loom</a> · 
-  <a href="https://linkedin.com/in/devashish-jadhav">LinkedIn</a>
+  <a href="https://github.com/ddevilz/loom">⭐ Star Loom</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_SLUG">LinkedIn</a>
 </p>
